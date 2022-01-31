@@ -1,0 +1,9 @@
+site_name: My Docs
+theme:
+  name: material
+  features:
+    - navigation.tracking
+
+markdown_extensions:
+  - pymdownx.tabbed:
+      alternate_style: true
